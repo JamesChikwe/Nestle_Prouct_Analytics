@@ -42,7 +42,7 @@ EDA involved exploring the sales data to answer key questions, such as:
   5. In the year 2019, more products tends to have the highest sales across the years.
 
 This is the link to the project report on Power BI 
-  - [Download here](https://app.powerbi.com/groups/me/reports/76afbbe0-a035-4e61-9cd3-19d963c7ec61/ReportSection?experience=power-bi)
+  - [Click here](https://app.powerbi.com/groups/me/reports/76afbbe0-a035-4e61-9cd3-19d963c7ec61/ReportSection?experience=power-bi)
 
 ### Recommendations
 
